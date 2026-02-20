@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shivani 👋
 
-<!--
-**Shivani-tech01/Shivani-tech01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student passionate about Web Development  
+💻 Currently learning JavaScript, React and problem solving  
+🚀 Building projects to improve my skills  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Basics of React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Add links to your repositories here
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/
+shivani-singh-5506a136a
+- Email: shivanirsingh.01@gmail.com
