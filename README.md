@@ -9,8 +9,6 @@
 - Git & GitHub
 - Basics of React
 
-## 📂 Projects
-- Add links to your repositories here
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/
